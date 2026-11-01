@@ -10,7 +10,7 @@ To Develop a python program to Plot a time series data (population/ market price
 # SOFTWARE REQUIRED 
 
 1 . Jupyter Notebook
-# DATASET USED : canteen_shoop_data
+# DATASET USED : canteen_shop_data
 # ALGORITHM:
 1. Import the required packages like pandas and matplot
 2. Read the dataset using the pandas
