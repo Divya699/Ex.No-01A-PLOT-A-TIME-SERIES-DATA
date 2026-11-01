@@ -1,8 +1,8 @@
 # Ex.No: 01A PLOT A TIME SERIES DATA
-### Developed by
-###  Date: 01/11/2026
-### NAME : DIVYA PRIYA S
-### REGISTER NO: 212225240037
+
+##  Date: 01/11/2026
+## NAME : DIVYA PRIYA S
+##  REGISTER NO: 212225240037
 
 # AIM:
 To Develop a python program to Plot a time series data (population/ market price of a commodity
